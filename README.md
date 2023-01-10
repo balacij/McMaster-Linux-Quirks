@@ -10,8 +10,9 @@ least). If you have anything you can contribute, all are welcome! :)
 
 ### Linux Distribution
 
-I like NixOS. You might not like it, but it's worth a try. Otherwise, Fedora is
-in great shape at time of writing.
+I like [NixOS](https://nixos.org). You might not like it, but it's worth a try.
+Otherwise, [Fedora](https://getfedora.org/) is in great shape at time of
+writing.
 
 ### Desktop Environment
 
@@ -22,8 +23,9 @@ sound recordings, video recordings, screen sharing, etc. without issue.
 ## MS Teams
 
 Unfortunately, the official MS Teams Linux application has been retired. Using
-the web app version of it is okay (i.e., the PWA version), but FireFox has a few
-issues with it.
+the web app version of it is okay (i.e., the PWA version). While FireFox has a
+few issues with it, chromium-based browsers lack any sort of hardware
+acceleration.
 
 ## MS Word
 
@@ -46,7 +48,7 @@ Thus, I just use it in the web browser with notifications turned on.
 ## Wi-Fi / WLAN
 
 The official guide says to use no validation certificate. I'm not quite sure why
-they said this. Anycase, if you prefer to have a secure Wi-Fi connection, you
+they say this. Anycase, if you prefer to have a secure Wi-Fi connection, you
 just need to make sure you have the commonly shared CA certificates installed on
 your machine (typically installed with a `cacert` package). When registering
 Mac-WiFi on your computer, I had to use the following settings:
