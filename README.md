@@ -21,30 +21,18 @@ GUI and has never crashed on me. I've used it for presentations, sound
 recordings, video recordings, screen sharing, etc. without issue.
 
 I like using the following extensions with GNOME too:
-1. [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/) -
-   aesthetic
-2. [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) -
-   bottom bar application dock
-3. [AppIndicator
-   Support](https://extensions.gnome.org/extension/615/appindicator-support/) -
-   top bar application tray
-4. [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/) - connect
-   your phone to GNOME
-5. [NoAnnoyance v2](https://extensions.gnome.org/extension/2182/noannoyance/) -
-   disable 'Windows is Ready' notifications
-6. [Nothing to Say](https://extensions.gnome.org/extension/1113/nothing-to-say/)
-   - quick microphone timeouts
-7. [Notification
-   Timeout](https://extensions.gnome.org/extension/3795/notification-timeout/) -
-   notifications hide themselves after a period of time
-8. [Pano - Clipboard Manager](https://extensions.gnome.org/extension/5278/pano/)
-   - clipboard management
-9. [Remove Alt+Tab Delay
-   v2](https://extensions.gnome.org/extension/2741/remove-alttab-delay-v2/) -
-   removing an annoying delay in window switching
-10. [Rounded Window
-    Corners](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
-    - aesthetic
+| Extension                                                                                      | Need                                                 |
+| ---------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)                    | aesthetic fix                                        |
+| [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)                       | bottom bar application dock                          |
+| [AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/)       | top bar application tray                             |
+| [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/)                            | connect your phone to GNOME                          |
+| [NoAnnoyance v2](https://extensions.gnome.org/extension/2182/noannoyance/)                     | disable 'Windows is Ready' notifications             |
+| [Nothing to Say](https://extensions.gnome.org/extension/1113/nothing-to-say/)                  | quick microphone timeouts                            |
+| [Notification Timeout](https://extensions.gnome.org/extension/3795/notification-timeout/)      | notifications hide themselves after a period of time |
+| [Pano - Clipboard Manager](https://extensions.gnome.org/extension/5278/pano/)                  | clipboard management                                 |
+| [Remove Alt+Tab Delay v2](https://extensions.gnome.org/extension/2741/remove-alttab-delay-v2/) | removing an annoying delay in window switching       |
+| [Rounded Window Corners](https://extensions.gnome.org/extension/5237/rounded-window-corners/)  | aesthetic fix                                        |
 
 ## MS Teams
 
@@ -86,7 +74,7 @@ computer, I had to use the following settings:
 |--------------------	|-----------------------------------	|
 | **Authentication** 	| Protected EAP (PEAP)              	|
 | **Anon. Identity** 	| (leave blank!)                    	|
-| **CA Certificate** 	| (your installed cacert .crt file) 	|
+| **CA Certificate** 	| (your installed cacert `.crt` file) 	|
 | **PEAP version**   	| Automatic                         	|
 | **Inner Auth.**    	| MSCHAPv2                          	|
 | **Username**       	| (your Mac ID)                     	|
